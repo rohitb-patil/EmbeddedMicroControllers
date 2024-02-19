@@ -4,9 +4,10 @@
   <img src="micro.jpg" alt="Image 1"/>
 </p>
 
+
 ## 1. Intel 8051 Assembly Codes Repository.
 - This repository contains a collection of Intel 8051 assembly codes for various microcontroller applications.
-Details in `assembly.md`
+ Details in `assembly.md`
 
 ## 2. ARM7 LPC2148 Microcontroller Onboard Peripheral Interfacing Repository.
 - Explore this repository for examples and tutorials on interfacing peripherals with ARM7 LPC2148 microcontroller.
