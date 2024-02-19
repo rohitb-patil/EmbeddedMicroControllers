@@ -1,4 +1,4 @@
-# Embedded MicroCOntroller.
+# Embedded MicroController.
 
 <p align="left">
   <img src="micro.jpg" alt="Image 1"/>
