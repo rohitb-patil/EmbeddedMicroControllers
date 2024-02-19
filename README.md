@@ -1,6 +1,6 @@
 # Embedded MicroCOntroller.
 
-<p align="center">
+<p align="left">
   <img src="micro.jpg" alt="Image 1"/>
 </p>
 
